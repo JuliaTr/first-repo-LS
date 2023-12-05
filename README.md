@@ -1,4 +1,4 @@
-
+Hello world, I love using Git!
 
 Important steps for git workflow:
 
