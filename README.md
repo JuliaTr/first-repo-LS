@@ -1,3 +1,5 @@
+# README
+
 Hello world, I love using Git and GitHub!
 
 Important steps for git workflow:
