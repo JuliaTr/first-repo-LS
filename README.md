@@ -15,3 +15,7 @@ Important steps for git workflow:
 
 - example.txt
 
+
+Making changes for the remote, let's bring them down to the local.
+One more change for luck.
+
